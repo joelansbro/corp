@@ -9,22 +9,5 @@
 }
 
 .newsrow {
-    @apply h-64 grid grid-rows-1 grid-flow-col gap-4 py-5 mx-4;
-}
-
-.newsitems {
-    @apply mx-2 my-auto w-auto;
-}
-
-.genre {
-    color: #9e0b0f;
-    @apply mt-2;
-}
-
-.newslead {
-    @apply text-gray-900 mx-4;
-}
-
-.newstitle {
-    @apply text-2xl;
+    @apply 
 }
