@@ -32265,8 +32265,9 @@ video {
 .newsitems {
   margin-left: 0.5rem;
   margin-right: 0.5rem;
-  margin-top: 0.75rem;
-  margin-bottom: 0.75rem;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: auto;
 }
 
 .genre {

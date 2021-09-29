@@ -13,7 +13,7 @@
 }
 
 .newsitems {
-    @apply mx-2 my-3;
+    @apply mx-2 my-auto w-auto;
 }
 
 .genre {
